@@ -20,6 +20,10 @@ public class coinDrop : MonoBehaviour
         {
             if (GameManager.Instance != null)
                 GameManager.Instance.AddScore(1);
+
+            if (AudioManager.Instance != null)
+                AudioManager.Instance.PlayCoin();
+
             Destroy(gameObject);
         }
     }
