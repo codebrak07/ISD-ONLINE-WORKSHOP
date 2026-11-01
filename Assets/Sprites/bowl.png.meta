@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: 61ae9013d86ca4331af8c489004d55c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5033018365930607717
+    second: Glossy Golden Blue Lattice Bowl_0
+  - first:
+      213: 4014110105625677089
+    second: Glossy Golden Blue Lattice Bowl_1
+  - first:
+      213: -6554582458599295972
+    second: Glossy Golden Blue Lattice Bowl_2
+  - first:
+      213: 8707893063044295643
+    second: Glossy Golden Blue Lattice Bowl_3
+  - first:
+      213: 3241577845144149881
+    second: Glossy Golden Blue Lattice Bowl_4
+  - first:
+      213: -7641108600266089935
+    second: Glossy Golden Blue Lattice Bowl_5
+  - first:
+      213: 4025464313182183799
+    second: Glossy Golden Blue Lattice Bowl_6
+  - first:
+      213: -4212445996260502638
+    second: Glossy Golden Blue Lattice Bowl_7
+  - first:
+      213: 1881059190941601368
+    second: Glossy Golden Blue Lattice Bowl_8
+  - first:
+      213: -7977112102886901314
+    second: Glossy Golden Blue Lattice Bowl_9
+  - first:
+      213: 8338132392639053059
+    second: Glossy Golden Blue Lattice Bowl_10
+  - first:
+      213: -4249193331321117685
+    second: Glossy Golden Blue Lattice Bowl_11
+  - first:
+      213: -7756847808291492603
+    second: Glossy Golden Blue Lattice Bowl_12
+  - first:
+      213: 12775323289813371
+    second: Glossy Golden Blue Lattice Bowl_13
+  - first:
+      213: 5337416521250763052
+    second: Glossy Golden Blue Lattice Bowl_14
+  - first:
+      213: -7890793217929010208
+    second: Glossy Golden Blue Lattice Bowl_15
+  - first:
+      213: 7504681202148256363
+    second: Glossy Golden Blue Lattice Bowl_16
+  - first:
+      213: 3146552315515698502
+    second: Glossy Golden Blue Lattice Bowl_17
+  - first:
+      213: -1079206462755369327
+    second: Glossy Golden Blue Lattice Bowl_18
+  - first:
+      213: -5628362845226297048
+    second: Glossy Golden Blue Lattice Bowl_19
+  - first:
+      213: 2061299225018097541
+    second: Glossy Golden Blue Lattice Bowl_20
+  - first:
+      213: 2629709076092484588
+    second: Glossy Golden Blue Lattice Bowl_21
+  - first:
+      213: -1955395885009327180
+    second: Glossy Golden Blue Lattice Bowl_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Glossy Golden Blue Lattice Bowl_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 65
+        width: 1483
+        height: 903
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b60b65670272ab0800000000000000
+      internalID: -5033018365930607717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Golden Blue Lattice Bowl_1
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 911
+        width: 87
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12dcf179fdbf4b730800000000000000
+      internalID: 4014110105625677089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Golden Blue Lattice Bowl_2
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 966
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14be284bf17905a0800000000000000
+      internalID: -6554582458599295972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Golden Blue Lattice Bowl_3
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 959
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbe7dcba96a8d870800000000000000
+      internalID: 8707893063044295643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Golden Blue Lattice Bowl_4
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 925
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fd79320e56cfc20800000000000000
+      internalID: 3241577845144149881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Golden Blue Lattice Bowl_5
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 993
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a15fe563455f590800000000000000
+      internalID: -7641108600266089935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Golden Blue Lattice Bowl_6
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 967
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7716c3b07725dd730800000000000000
+      internalID: 4025464313182183799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Golden Blue Lattice Bowl_7
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 940
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29350655fa26a85c0800000000000000
+      internalID: -4212445996260502638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Golden Blue Lattice Bowl_8
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 933
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ece8d2e5dda1a10800000000000000
+      internalID: 1881059190941601368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Golden Blue Lattice Bowl_9
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 943
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9f4f59eca9b4190800000000000000
+      internalID: -7977112102886901314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Golden Blue Lattice Bowl_10
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 950
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dbd69db3ff6b370800000000000000
+      internalID: 8338132392639053059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Golden Blue Lattice Bowl_11
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 939
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0465a8ad25d705c0800000000000000
+      internalID: -4249193331321117685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Golden Blue Lattice Bowl_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 923
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50da40214042a5490800000000000000
+      internalID: -7756847808291492603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Golden Blue Lattice Bowl_13
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 911
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71849eb6136d2000800000000000000
+      internalID: 12775323289813371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Golden Blue Lattice Bowl_14
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 935
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21f3771c00521a40800000000000000
+      internalID: 5337416521250763052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Golden Blue Lattice Bowl_15
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 913
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3a74120654e7290800000000000000
+      internalID: -7890793217929010208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Golden Blue Lattice Bowl_16
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 903
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a2996bacbf52860800000000000000
+      internalID: 7504681202148256363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Golden Blue Lattice Bowl_17
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 891
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dfe79e8accaab20800000000000000
+      internalID: 3146552315515698502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Golden Blue Lattice Bowl_18
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 902
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e0924a073e501f0800000000000000
+      internalID: -1079206462755369327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Golden Blue Lattice Bowl_19
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 899
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829974700d904e1b0800000000000000
+      internalID: -5628362845226297048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Golden Blue Lattice Bowl_20
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 915
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fddf259b43b9c10800000000000000
+      internalID: 2061299225018097541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Golden Blue Lattice Bowl_21
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 905
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebfc1fc87a9e7420800000000000000
+      internalID: 2629709076092484588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Golden Blue Lattice Bowl_22
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 910
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb22ce7dc90dd4e0800000000000000
+      internalID: -1955395885009327180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Glossy Golden Blue Lattice Bowl_0: -5033018365930607717
+      Glossy Golden Blue Lattice Bowl_1: 4014110105625677089
+      Glossy Golden Blue Lattice Bowl_10: 8338132392639053059
+      Glossy Golden Blue Lattice Bowl_11: -4249193331321117685
+      Glossy Golden Blue Lattice Bowl_12: -7756847808291492603
+      Glossy Golden Blue Lattice Bowl_13: 12775323289813371
+      Glossy Golden Blue Lattice Bowl_14: 5337416521250763052
+      Glossy Golden Blue Lattice Bowl_15: -7890793217929010208
+      Glossy Golden Blue Lattice Bowl_16: 7504681202148256363
+      Glossy Golden Blue Lattice Bowl_17: 3146552315515698502
+      Glossy Golden Blue Lattice Bowl_18: -1079206462755369327
+      Glossy Golden Blue Lattice Bowl_19: -5628362845226297048
+      Glossy Golden Blue Lattice Bowl_2: -6554582458599295972
+      Glossy Golden Blue Lattice Bowl_20: 2061299225018097541
+      Glossy Golden Blue Lattice Bowl_21: 2629709076092484588
+      Glossy Golden Blue Lattice Bowl_22: -1955395885009327180
+      Glossy Golden Blue Lattice Bowl_3: 8707893063044295643
+      Glossy Golden Blue Lattice Bowl_4: 3241577845144149881
+      Glossy Golden Blue Lattice Bowl_5: -7641108600266089935
+      Glossy Golden Blue Lattice Bowl_6: 4025464313182183799
+      Glossy Golden Blue Lattice Bowl_7: -4212445996260502638
+      Glossy Golden Blue Lattice Bowl_8: 1881059190941601368
+      Glossy Golden Blue Lattice Bowl_9: -7977112102886901314
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
