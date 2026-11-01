@@ -248,3 +248,4 @@ The components are exposed with developer-friendly parameters for easy balance t
 ## License
 
 This project is developed for educational and workshop purposes under the ISD Online Workshop curriculum. Assets and code are free to use and modify for learning, prototyping, and portfolio demonstrations.
+
